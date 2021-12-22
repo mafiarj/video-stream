@@ -1,14 +1,14 @@
 {
     "name": "Video x Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/0824baeceeb1f6d3223de.jpg",
+    "logo": "https://telegra.ph/file/9c1145aac470758ba6cbc.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/terayaarhoomai",
+    "website": "https://t.me/EBD_WORLD",
     "repository": "https://github.com/mrvk1703/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
